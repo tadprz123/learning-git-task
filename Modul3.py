@@ -12,7 +12,8 @@ print(numbers)
 mean_number = sum(numbers) / len(numbers)
 print(mean_number)
 #ćwiczenie 2
-input(print("podaj"))
+chunk = 0
+goal = 0
 def build_bridge(chunk, goal):
   junction = chunk / 2
   x = (goal + (junction * 1))/(chunk + junction)
