@@ -1,0 +1,1 @@
+print("specjalne pozdrowienia")
