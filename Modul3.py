@@ -1,1 +1,1 @@
-#w tym repozytorium będą wszsytkie ćwiczenia z modułu 3
+print("specjalne pozdrowienia")
